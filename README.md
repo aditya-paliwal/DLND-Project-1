@@ -49,7 +49,7 @@ first-neural-network-code.ipynb
 
 The complete project review by a Udacity Reviewer can be seen here:
 
-(https://review.udacity.com/#!/reviews/451451)
+(https://review.udacity.com/#!/reviews/451451/shared)
 
 
 
