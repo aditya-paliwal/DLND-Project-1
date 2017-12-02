@@ -16,12 +16,14 @@ pandas
 
 ### Installing
 
-Step-1
+#### Step-1
+
 Install the above prerequisites by running the following command:
 
 conda install numpy matplotlib pandas jupyter notebook
 
-Step-2
+#### Step-2
+
 Run the following to open up the notebook:
 
 jupyter notebook dlnd-your-first-neural-network.ipynb
@@ -35,6 +37,7 @@ first-neural-network-code.ipynb
 ### Review
 
 The complete project review by a Udacity Reviewer can be seen here:
+
 (https://review.udacity.com/#!/reviews/451451)
 
 
