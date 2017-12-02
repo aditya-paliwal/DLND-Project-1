@@ -32,6 +32,12 @@ Run the following to open up the notebook:
 
 jupyter notebook dlnd-your-first-neural-network.ipynb
 
+#### Step-3
+
+Create the new environment by running
+
+conda create *env name*
+
 ### Code
 
 The step by step code and execution can be fouud in:
