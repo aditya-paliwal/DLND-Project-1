@@ -9,6 +9,8 @@ In this project, we'll get to build a neural network from scratch to carry out a
 The data comes from [UCI Machine Learning Database.](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 ### Prerequisites
 
+The Software requirments is listed as:
+
 - Python3
 - Jupyter Notebook
 - numpy
