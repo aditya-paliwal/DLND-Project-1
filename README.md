@@ -9,9 +9,13 @@ In this project, we'll get to build a neural network from scratch to carry out a
 ### Prerequisites
 
 Python3
+
 Jupyter Notebook
+
 numpy
+
 matplotlib 
+
 pandas
 
 ### Installing
