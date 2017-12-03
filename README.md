@@ -39,7 +39,7 @@ conda create *env name*
 
 ### Code
 
-The step by step code and execution can be fouud in:
+The step by step code and execution can be seen in:
 
 first-neural-network-code.ipynb
 
