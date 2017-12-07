@@ -9,7 +9,7 @@ In this project, I built a neural network from scratch to carry out a prediction
 The data comes from [UCI Machine Learning Database.](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 ### Prerequisites
 
-The requirments are listed as:
+The requirements are listed as:
 
 - Python3
 - Jupyter Notebook
