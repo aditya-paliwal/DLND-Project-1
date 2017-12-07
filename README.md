@@ -1,10 +1,10 @@
 # Project Title
+Daily bike rental ridership prediction using Simple Neural Network.
 
-Your first Neural Network
 
 ## Introduction
 
-In this project, we'll get to build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, we'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. we'll also get to see how to apply these networks to solve real prediction problems!
+In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset. By building a neural network from the ground up, I had got a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. I also learned how to apply these networks to solve real prediction problems.
 
 The data comes from [UCI Machine Learning Database.](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 ### Prerequisites
@@ -42,12 +42,6 @@ conda create *env name*
 The step by step code and execution can be seen in:
 
 first-neural-network-code.ipynb
-
-### Review
-
-The complete project review by a Udacity Reviewer can be seen here:
-
-(https://review.udacity.com/#!/reviews/451451/shared)
 
 
 
