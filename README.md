@@ -6,7 +6,16 @@ Daily bike rental ridership prediction using Simple Neural Network.
 
 In this project, I built a neural network from scratch to carry out a prediction problem on a real dataset. By building a neural network from the ground up, I had got a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools such as Tensorflow. I also learned how to apply these networks to solve real prediction problems.
 
+
+
 The data comes from [UCI Machine Learning Database.](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
+
+Following steps were involved during implementation of this project:
+
+- Loaded and prepared the data by splitting it into testing, training and validation sets.
+- Built the Network by implementing the activation function (using sigmoid function) and back-propagation algorithm.
+- Trained the network by choosing appropriate number of hidden layers, learning rate and number of iterations.
+- Checked the predictions given by the model.
 ### Prerequisites
 
 The requirements are listed as:
